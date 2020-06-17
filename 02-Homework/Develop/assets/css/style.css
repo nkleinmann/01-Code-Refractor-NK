@@ -78,7 +78,7 @@ main.content {
     margin-left: 20px;
 }
 
-.benefits {
+aside.benefits {
     margin-right: 20px;
     padding: 20px;
     clear: both;
@@ -89,17 +89,17 @@ main.content {
     background-color: #2589bd;
 }
 
-.benefit-lead {
+section.benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-.benefit-brand {
+section.benefit-brand {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-.benefit-cost {
+section.benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
 }
