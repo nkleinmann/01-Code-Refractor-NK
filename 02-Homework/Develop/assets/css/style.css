@@ -132,6 +132,7 @@ section.online-reputation-management h2 {
     font-size: 36px;
 }
 
+/* Side Bar with content */
 aside.benefits {
     margin-right: 20px;
     padding: 20px;
@@ -178,6 +179,7 @@ aside.benefits {
     max-width: 150px;
 }
 
+/* Footer section of website */
 footer {
     padding: 30px;
     clear: both;
