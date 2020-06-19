@@ -1,6 +1,4 @@
-# Week1-HW-NK
-
-## 01 HTML CSS Git: Code Refactor
+# 01 HTML CSS Git: Code Refactor
 
 Week 1 HW for UNH Bootcamp.  In this project, I focus on making the website as accessible as possible by using semantic elements, adding alt attributes to images, and debugging.  It is crucial to make every website as accessible as possible so that every user can read and enjoy the website.   
 
