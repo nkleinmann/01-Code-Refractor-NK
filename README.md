@@ -1,51 +1,14 @@
 # Week1-HW-NK
-Week 1 HW for UNH Bootcamp.
 
-## Instructions for Homework
 ## 01 HTML CSS Git: Code Refactor
 
-One of the most common tasks for front-end and junior developers is to take existing code and refactor it to either meet a certain set of standards or implement a new technology. Web accessibility is an increasingly important consideration for businesses, ensuring that people with disabilities or socio-economic restrictions have access to their website, and helping them avoid litigation.
+Week 1 HW for UNH Bootcamp.  In this project, I focus on making the website as accessible as possible by using semantic elements, adding alt attributes to images, and debugging.  It is crucial to make every website as accessible as possible so that every user can read and enjoy the website.   
 
-Your task is to refactor an existing webpage to make it accessible. An important rule to follow when working with someone else's code is the Scout Rule:
+Updates to Website:
+1. Changed div tags to be header, nav, main, section, article, figure, and footer tags when applicable.
+2. Changed large image to be in html instead of css so all images can have an alt attribute.
+3. Updated links so that all links are working.
+4. Re-organized CSS to follow semantic elements reasoning in HTML.
+5. Simplified CSS by eleminating repeats and re-organizing CSS. 
 
-> Always leave the code you are editing a little cleaner than you found it.
-
-To impress clients, you should always go the extra mile and improve their codebase for long term sustainability. Ensure that all links are functioning correctly and clean up the CSS to make it more efficient, consolidating CSS selectors and properties, organizing them to follow the semantic structure of the HTML elements, and including comments before each element or section of the page.
-
-## User Story
-
-```
-AS A marketing agency
-I WANT a codebase that follows accessibility standards
-SO THAT our own site is optimized for search engines
-```
-
-## Acceptance Criteria
-
-```
-GIVEN a webpage meets accessibility standards
-WHEN I view the source code
-THEN I find semantic HTML elements
-WHEN I view the structure of the HTML elements
-THEN I find that the elements follow a logical structure independent of styling and positioning
-WHEN I view the image elements
-THEN I find accessible alt attributes
-WHEN I view the heading attributes
-THEN they fall in sequential order
-WHEN I view the title element
-THEN I find a concise, descriptive title
-```
-
-## Review
-
-You are required to submit the following for review:
-
-* The URL of the deployed application.
-
-* The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
-
-- - -
-© 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
-
-
-
+This project was fun to work on! I struggled at first when I started updating the HTML without updating all applicable CSS and had to re-work multiple parts.
