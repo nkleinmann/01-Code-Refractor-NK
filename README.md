@@ -12,3 +12,7 @@ Updates to Website:
 5. Simplified CSS by eleminating repeats and re-organizing CSS. 
 
 This project was fun to work on! I struggled at first when I started updating the HTML without updating all applicable CSS and had to re-work multiple parts.
+
+Screenshots of Website:
+<img width="1376" alt="Screen Shot 2020-06-18 at 9 34 36 PM" src="https://user-images.githubusercontent.com/65608809/85087531-c3c1bf80-b1ab-11ea-9eeb-b9c76ae03e52.png">
+<img width="1359" alt="Screen Shot 2020-06-18 at 9 34 54 PM" src="https://user-images.githubusercontent.com/65608809/85087537-c6bcb000-b1ab-11ea-91e5-4063077c9cee.png">
