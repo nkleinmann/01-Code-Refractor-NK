@@ -123,9 +123,9 @@ section.benefit-cost h3 {
     text-align: center;
 }
 
+section.benefit-lead img,
 section.benefit-brand img,
-section.benefit-cost img,
-section.benefit-lead img {
+section.benefit-cost img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
