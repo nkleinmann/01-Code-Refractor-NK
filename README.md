@@ -11,7 +11,7 @@ Updates to Website:
 
 This project was fun to work on! I struggled at first when I started updating the HTML without updating all applicable CSS and had to re-work multiple parts.
 
-Here is the link to my application: [Visit my website!](git@github.com:nkleinmann/01-Code-Refractor-NK.git)
+Here is the link to my application: [Visit my website!](https://nkleinmann.github.io/01-Code-Refractor-NK/#social-media-marketing)
 
 Screenshots of Website:
 <img width="1376" alt="Screen Shot 2020-06-18 at 9 34 36 PM" src="https://user-images.githubusercontent.com/65608809/85087531-c3c1bf80-b1ab-11ea-9eeb-b9c76ae03e52.png">
