@@ -46,12 +46,9 @@ a {
     text-decoration: none;
 }
 
-/* Background image */
-figure.background-image {
-    height: 800px;
-    width: 100%;
+/* Large image for website*/
+figure img {
     margin-bottom: 25px;
-    background-image: url("../images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
 }
