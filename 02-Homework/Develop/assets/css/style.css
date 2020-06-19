@@ -103,7 +103,7 @@ section.social-media-marketing h2 {
 }
 
 /* Side Bar with content */
-aside.benefits {
+.benefits {
     margin-right: 20px;
     padding: 20px;
     clear: both;
@@ -116,9 +116,11 @@ aside.benefits {
     color: #ffffff;
 }
 
-section.benefit-lead h3,
-section.benefit-brand h3,
-section.benefit-cost h3 {
+.benefits p {
+    margin-bottom: 20px;
+}
+
+.benefits h3 {
     margin-bottom: 10px;
     text-align: center;
 }
